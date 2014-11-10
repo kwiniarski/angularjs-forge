@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-forge",
+  "version": "1.0.0",
+  "description": "Port of Forge library to AngularJS module.",
+  "authors": [
+    "Krzysztof Winiarski <winiarski.krzysztof@gmail.com>"
+  ],
+  "main": "forge.js",
+  "keywords": [
+    "angularjs",
+    "forge",
+    "crypto",
+    "tls",
+    "hmac",
+    "md5",
+    "sha1",
+    "sha256",
+    "sha512"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "minify.js"
+  ]
+}
